@@ -1,7 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Web3 from 'web3';
 
+(async function() {
+  await window.ethereum.enable()
+  window.w3 = new Web3(window.ethereum)
+})();
 function App() {
   return (
     <div className="App">
