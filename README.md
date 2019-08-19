@@ -1,3 +1,12 @@
+Follow tutorial from Band Protocol about create smart contract and webapp for ticket seller app.
+Using Band protocol for ETH/USD and BTH/USD price curating data.
+Using Ethereum Kovan Testnet
+
+Blockchain and Ethereum Smart Contract 101
+Part 1/3: https://youtu.be/rnrFf-fgH5I
+Part 2/3: https://youtu.be/LZK4tpZSxks
+Part 3/3: https://youtu.be/XlZsy8v0sWU
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
